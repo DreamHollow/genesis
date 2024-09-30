@@ -1,0 +1,7 @@
+# Manually created gitignore
+
+/build
+build.sh
+clean.sh
+rebuild.sh
+run.sh
