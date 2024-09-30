@@ -1,6 +1,7 @@
 # Manually created gitignore
 
 /build
+genesis
 build.sh
 clean.sh
 rebuild.sh
